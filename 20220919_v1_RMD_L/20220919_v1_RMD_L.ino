@@ -12,7 +12,7 @@ unsigned char rxBuf[8];
 long rx[8];
 
 const float amplitute{2};     // change this variable for amplitute in rad !!!
-const float frequency{1.5};   // change this variable for freq
+const float frequency{0.5};   // change this variable for freq
 
 // RMD L 7045 = 0.53
 // RMD L 5015 = 0.23
